@@ -1,4 +1,4 @@
-import { romanToInt } from "./RomanToInt";
+import { romanToInt } from "./romanToInt";
 
 describe("Roman to Integer", () => {
   test("Should return a number using only I roman number", () => {
