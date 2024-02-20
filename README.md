@@ -15,7 +15,7 @@ Hello! This is my repository containing solutions to problems from the [Leet Cod
 
 ## Repository Structure
 
-This repository has three different folders: /easy, /medium, and /hard. Each folder represents a different difficulty level as shown on [LeetCode](https://leetcode.com/).
+This repository has three different folders: `/easy`, `/medium`, and `/hard`. Each folder represents a different difficulty level as shown on [LeetCode](https://leetcode.com/).
 
 In each folder, there are multiple files. Files with the format `myChallengeSolution.ts` contain my solution for the challenge, and files with the format `myChallengeSolution.test.ts` contain my test cases for the challenge.
 
