@@ -13,6 +13,22 @@ Hello! This is my repository containing solutions to problems from the [Leet Cod
 - [Prettier](https://prettier.io/)
 - [EsLint](https://eslint.org/)
 
+**[Dependences/package.json]**
+
+```json
+"devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@typescript-eslint/eslint-plugin": "^7.0.1",
+    "@typescript-eslint/parser": "^7.0.1",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5",
+    "ts-jest": "^29.1.2"
+}
+```
+
 ## Repository Structure
 
 This repository has three different folders: `/easy`, `/medium`, and `/hard`. Each folder represents a different difficulty level as shown on [LeetCode](https://leetcode.com/).
