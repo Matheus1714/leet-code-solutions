@@ -1,5 +1,8 @@
 export function longestCommonPrefix(words: string[]): string {
   const numberOfWords = words.length;
+  if (numberOfWords === 1) {
+    return words[0];
+  }
   let index = 1;
   let commonPrefix = words[0];
   do {
