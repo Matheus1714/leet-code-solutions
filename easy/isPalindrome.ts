@@ -1,4 +1,5 @@
 export function isPalindrome(num: number): boolean {
+  // return `${num}`.split('').reverse().join('') === `${num}`
   if (num < 0) return false;
 
   const listOfDigits = num.toString().split("").map(Number);
